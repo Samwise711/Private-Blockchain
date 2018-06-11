@@ -1,0 +1,30 @@
+=============== Jun 8, 2018 (EDT) ===============
+12:40:50.210364 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:40:50.217469 db@open opening
+12:40:50.224455 version@stat F·[] S·0B[] Sc·[]
+12:40:50.230856 db@janitor F·2 G·0
+12:40:50.230856 db@open done T·13.3877ms
+=============== Jun 8, 2018 (EDT) ===============
+12:41:54.098188 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:41:54.099189 version@stat F·[] S·0B[] Sc·[]
+12:41:54.099189 db@open opening
+12:41:54.100188 journal@recovery F·1
+12:41:54.108183 journal@recovery recovering @1
+12:41:54.116208 memdb@flush created L0@2 N·9 S·548B "HW\x04..\x9bŰ,v3":"r\x00\x00..\x9bŰ,v5"
+12:41:54.127174 version@stat F·[1] S·548B[548B] Sc·[0.25]
+12:41:54.135838 db@janitor F·3 G·0
+12:41:54.135838 db@open done T·36.6488ms
+12:45:02.628291 db@close closing
+12:45:02.629290 db@close done T·999.5µs
+=============== Jun 11, 2018 (EDT) ===============
+10:43:21.827937 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:43:21.829937 version@stat F·[1] S·548B[548B] Sc·[0.25]
+10:43:21.829937 db@open opening
+10:43:21.829937 journal@recovery F·1
+10:43:22.037820 journal@recovery recovering @3
+10:43:22.043851 memdb@flush created L0@5 N·2 S·238B "Dat..ion,v11":"Las..der,v12"
+10:43:22.251770 version@stat F·[2] S·786B[786B] Sc·[0.50]
+10:43:22.259573 db@janitor F·4 G·0
+10:43:22.259573 db@open done T·429.6356ms
+12:08:33.695711 db@close closing
+12:08:33.695711 db@close done T·0s
