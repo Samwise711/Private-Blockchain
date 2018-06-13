@@ -7,7 +7,7 @@ Nodes in this private network must use mining to confirm transactions and smart 
 
 Below are a list of the steps taken to create the private blockchain and interact with it using the Mist browser: 
 
-1) Download and install geth: https://geth.ethereum.org/downloads/
+1) Download and install geth & Mist: https://geth.ethereum.org/downloads/ https://github.com/ethereum/mist/releases
 2) Download the genesis.json file in this repository, place it in a new folder
 3) Open the command line and cursor to the path directory of the new folder you created in step 2 that houses the genesis.json file
 4) Run the following in the command line: geth --datadir=./chaindata init genesis.json
