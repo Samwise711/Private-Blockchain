@@ -32,6 +32,9 @@ Enjoy!
 *note how in Mist it is not connected to the MainNet or TestNet but our Private Blockchain Network!!
 ![image](https://user-images.githubusercontent.com/29802069/41245192-5ee7bd52-6d75-11e8-99e5-ba79ee0f0852.png)
 
+*you can easily interact with your Deployed contracts, on your private blockchain, via Mist: 
+![image](https://user-images.githubusercontent.com/29802069/41361378-eac2ece2-6efc-11e8-94e3-d05c6372cdb3.png)
+
 *example of how to mine with your private blockchain
 ![image](https://user-images.githubusercontent.com/29802069/41245236-7888d084-6d75-11e8-8d0d-bfe5de147cbf.png)
 
