@@ -5,6 +5,8 @@ The 'chaindata' folder generates a log of all the blockchain's transactions / co
 
 Nodes (i.e. users and their computers) in this private network must use mining to confirm transactions and finalize smart contract deployment. Since this is a private network, with limited authorized users, block times are much quicker than Ethereum at ~1 sec. Of course, this block confirmation speed has the tradeoff of less decentralization (Ethereum has over 17,000 nodes worldwide on it's network, which reinforces security). 
 
+***This repository is for those already fimiliar with writing and deploying Solidity smart contracts. This guide will not outline how to interact with the specific test smart contract deployed in the example here. It will, however, discuss how another developer can generally access and interact with any smart contract code they push to their private chain***
+
 # Here are the steps on how to create your own private blockchain and interact with it using the Mist browser: 
 
 1) Download and install geth & Mist: https://geth.ethereum.org/downloads/ https://github.com/ethereum/mist/releases
