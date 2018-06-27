@@ -1,12 +1,8 @@
 pragma solidity ^0.4.23;
 
+@dev As this is purely a test to deploy a smart contract to my private network, I'm using code directly from the Open Zeppelin,
+open-source project. This is community vetted code that is publicly available for reuse. 
 
-/**
- * @title Roles
- * @author Francisco Giordano (@frangio)
- * @dev Library for managing addresses assigned to a Role.
- *      See RBAC.sol for example usage.
- */
 library Roles {
   struct Role {
     mapping (address => bool) bearer;
